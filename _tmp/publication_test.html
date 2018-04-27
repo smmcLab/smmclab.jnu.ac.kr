@@ -1,0 +1,78 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+      <title>SMMCLab - Chonnam National University</title>
+      <meta name="Description" content="" />
+      <link rel="stylesheet" href="css/smmclab.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="css/navigation-bar.css" type="text/css" media="screen" />
+      <script>
+      var openFile = function() {
+       var input = "publication_others.html";
+
+        var reader = new FileReader();
+        reader.onload = function(){
+          var text = reader.result;
+          var node = document.getElementById('content');
+          node.innerHTML += text;
+          console.log(reader.result.substring(0, 200));
+        };
+        reader.readAsText(input[0]);
+      };
+    </script>
+    
+   </head>
+   <body onload="openFile()">
+      <div id="container">
+         <div id="header">
+            <table>
+               <tr valign="center">
+                  <td><a href="index.html"><img src="smmc_logo_noback.png"
+                     alt="SMMCLab_LOGO" width=300 height=88></a></td>
+                  <td width=260></td>
+                  <td>
+                     <h4>Smart Mobile Media Computing Laboratory (SMMC)</h4>
+                     <h4>스마트 모바일 미디어 컴퓨팅 연구실</h4>
+                     <h5>
+                        <a href="http://ece.jnu.ac.kr/" target="_blank">Dept.
+                        Electronics and Computer Engineering</a><br> <a
+                           href="http://jnu.ac.kr/" target="_blank">Chonnam National
+                        University</a> ( <a href="http://global.jnu.ac.kr/" target="_blank">English</a>)
+                     </h5>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="cssmenu">
+            <ul>
+               <li><a href="index.html">ABOUT</a></li>
+               <li><a href="news.html">NEWS</a></li>
+               <li><a href="members.html">MEMBERS</a></li>
+               <li><a href="research.html">RESEARCH</a></li>
+               <li class='active'><a href="publication.html">PUBLICATION</a></li>
+            </ul>
+         </div>
+         <div id="navigation2">
+            <ul>
+               <li><a href="#Journals">Journals</a></li>
+               <li><a href="#Conferences">Conferences</a></li>
+               <li><a href="#DJournals">Domestic Journals</a></li>
+               <li><a href="#DConferences">Domestic Conferences</a></li>
+               <li><a href="#Posters">Patents</a></li>
+               <li><a href="#TechReports">Tech Reports</a></li>
+            </ul>
+         </div>
+         <div id="content" >
+         <input type='file' accept='text/plain' onchange='openFile(event)'><br>
+    <div id='output'>
+    ...
+    </div>
+         </div>
+         <div id="footer">
+            Last Modified at 2018 March.
+         </div>
+      </div>
+    </body>
+    
+</html>
+
+

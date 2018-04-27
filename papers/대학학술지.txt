@@ -1,0 +1,59 @@
+[1] 	Ma Van Linh, 김진술, 박상현, “A Fuzzy-based Method for Reducing Mobile Video-quality Fluctuation”, Asia-Pacific Academic and Industrial Services(APAIS), The 2017 2nd Special issue International Workshop on Information Theory and 5G Technologies, pp.21-28, Mar. 2017
+[2] 	Ma Van Linh, 김진술, 박상현, “전동휠체어의 안전을 위한 모터 제어 플랫폼 기술 연구”, 한국디지털콘텐츠학회 학술발표대회, pp.188-190, Dec. 2016
+[3] 	Ma Van Linh, 김진술, 박상현, “효율적인 퍼지 기반의 네트워크 변동 예측 방법”, 한국디지털콘텐츠학회 학술발표대회, pp.250-253, Dec. 2016
+[4] 	김진술, “적응형 스트리밍에 주파수 대역폭 변동 네트워크를 위한 스무딩 방법”, 2016 한국지식정보기술학회 추계학술대회, pp.23-26, Oct. 2016
+[5] 	Ma Van Linh, 김진술, 박상현, “OpenStack 기반의 멀티미디어 서비스를 위한사용자 중심의 데이터 분할전송 방법”, 2016 한국지식정보기술학회 추계학술대회, pp.27-31, Oct. 2016
+[6] 	Ma Van Linh, Sanghyun Park, Jinsul Kim, “Dividing Transmission Method for Multimedia Service Using OpenStack”, Proceedings on the International Conference on Internet Computing (ICOMP); Athens, pp.115-118, Jul. 2016
+[7] 	Ma Van Linh, Sanghyun Park, Jinsul Kim, “A Flexible Method for Sharing Network Bandwidth Utilization in Local Network by Applying the Advantage of Fuzzy Control: An Example on WebRTC Streaming”, Proceedings on the International Conference on Internet Computing (ICOMP); Athens, pp.125-130, Jul. 2016
+[8] 	Ma Van Linh, 김진술, 박상현, “퍼지 제어 로직을 이용한 WebRTC 시스널링 세션 Negotiation에 대한 새로운 접근”, 2016 한국지식정보기술학회 춘계학술대회, pp.172-175, Jun. 2016
+[9] 	Ma Van Linh, 김진술, 박상현, “사용자 중심의 전동휠체어 제어를 위한 스마트 모바일 플랫폼 연구”, 2016 한국지식정보기술학회 춘계학술대회, pp.191-195, Jun. 2016
+[10]   Younho Jung, Seonhyuk Lee, Su-il Choi, Cheol Hong Kim, Jinsul Kim, Kyungran Kang, Jaehyung Park,“Cost-Effective Multicast Routing with Mult-Gateway in Wireless Mesh Networks”, Information Science and Applications(ICISA) 2016. Springer, pp.69-69, Feb. 2016
+[11] 	Tran Thi Thu Ha, Jinsul Kim, "Architecture Design with Coordinating Live Streaming and VOD Sharing for Media Content", Information Science and Applications (ICISA) 2016. Springer Singapore, pp.1381-1389, Feb. 2016.
+[12] 	Ma Van Linh, 김진술, 박상현, “최적의 데이터 전송을 위한 OpenStack 기반의 데이터 동기화 방법”, 2015 추계공동학술대회, pp.1-4, Nov. 2015
+[13]  Ma Van Linh, 김진술, “Negotiated Bandwidth of Streaming Video by Using Fuzzy Logic in WebRTC”, 2015 추계공동학술대회, pp.1-4, Nov. 2015
+[14]  김진술, 양진승, 문용필, “JSP를 이용한 웹 기반의 모바일 호스텔 예약 시스템”, 한국스마트미디어학회 2015 추계학술대회, pp.1-3, Oct. 2015
+[15]  김진술, 박상현, “센서 기반의 자동 모터제어를 이용한 전동휠체어 제어 기술 연구”, 2015 한국지식정보기술학회 추계학술대회, pp.6-9, Oct. 2015
+[16]  김진술, 문용필, 양진승, “MVC Pattern 기반의 Ajax를 활용한 호스텔 예약 시스템”, 2015 한국지식정보기술학회 추계학술대회, pp.61-64, Oct. 2015
+[16]  김진술, 김지수, 박상현, 조창희, 이상준, “적외선 센서 기반 타겟 시스템의 데이터 안정화 알고리즘 및 좌표 계산 방법 연구”, 2015 한국지식정보기술학회 추계학술대회, pp.22-25, Oct. 2015
+[18]  김진술, 김지수, “NFV 기반의 오픈스택을 이용한 VM 제어 방법 연구”, 2015 한국지식정보기술학회 추계학술대회, pp.203-206, Oct. 2015
+[19]  김진술, GEMOH MALIVA TIHFON, “ A Global Cloud Clustering based on CDN Network”, 2015 한국지식정보기술학회 추계학술대회, pp.43-46, Oct. 2015
+[20] 	Muhammad Zubair, Changwoo Yoon, Hyunyoung Kim, Jisu Kim, Jinsul Kim, “Smart Wearable Band for Stress Detection”, IT Convergence and Security (ICITCS), 2015 5th International Conference on. IEEE, pp.1-4, Aug. 2015
+[21]	Jisu Kim, Gemoh. T, Sanghyun Park, Jinsul Kim, Sunghyun Yoon, Ho-Yong Ryu,“An Efficient Multimedia Transmission Control Methodology based on NFV," IT Convergence and Security (ICITCS), 2015 5th International Conference on. IEEE, pp.1-4, Aug. 2015.
+[22]	Muhammad Zubair, Changwoo Yoon, Hyunyoung Kim, Jisu Kim, Jinsul Kim, "Smart Wearable Band for Stress Detection," IT Convergence and Security (ICITCS), 2015 5th International Conference on. IEEE, pp.1-4, Aug. 2015.
+[23]	Kim Hyunyoung, Ilmin Kim, and Jinsul Kim, "Designing the Smart Foot Mat and Its Applications: as a User Identification Sensor for Smart Home Scenarios", Sience & Engineering Research Support Society, Vol.87, pp.1-5, 2015.
+[24]	Suh, Dongjun, Hyunyoung Kim, and Jinsul Kim, "Estimation of Water Demand in Residential Building Using Machine Learning Approach," IT Convergence and Security (ICITCS), 2015 5th International Conference on. IEEE, pp.1-2, Aug. 2015.
+[25] 	Hyunyoung Kim, Changhee Cho, Jisu Kim, Sanghyun Park, Kuinam J. Kim and Jinsul Kim, "Localizing a Flying Object on Target Place Using Heterogeneous Binary," 2015 International Conference on Mobile and Wireless Technology, pp.193-197, June. 2015.
+[26] 	Sanghyun Park, Jisu Kim and Jinsul Kim, "SLAN Based User-Customized Cloud Interface Saring for Smart Mobile Devices," 2015 International Conference on Mobile and Wireless Technology, pp.207-211, June. 2015.
+[27] 	Sanghyun Park, Hyunyoung Kim, Taeksoo Ji, Myoung Jin Lee and Jinsul Kim, "An Innovative Detection Method Integrating Hybrid Sensors for MotorizedWheelchairs," 2015 International Conference on Information Science and Applications, pp.1-5, February. 2015.
+[28] 	Tran Thi Thu Ha, Jaehyung Park, Sunghyun Yoon, Ho-Yong Ryu and Jinsul Kim, "Topology Optimization in Hybrid Tree/Mesh-based Peer-to-Peer Streaming System," 2015 International Conference on Green and Human Information Technology, pp.1-4, February. 2015.
+[29] 	Sanghyun Park, Jiseung Nam and Jinsul Kim, "SLAN-based Next Generation User-Customized Dynamic Interface Sharing for Smart Mobile Devices," 2014 International Conference on IT Convergence and Security, pp.372-374, October. 2014.
+[30] 	Yogiraj S. Jadhav, Baeho Lee and Jinsul Kim, "QoE Oriented Analysis for Video Quality Assessment," 2014 International Conference on IT Convergence and Security, pp.396-398, October. 2014.
+[31] 	Changhee Cho, Sanghyun Park, Sang-Joon Lee and Jinsul Kim, "An Efficient Moving Detection Methodology in Mobile Cloud Environment," 2014 International Conference on IT Convergence and Security, pp.396-398, October. 2014.
+[32] 	Tran Thi Thu Ha, Jaehyung Park, Yonggwan Won and Jinsul Kim, "Combining STUN Protocol and UDP Hole Punching Technique for Peer-to-Peer Communication across Network Address Translation," 2014 International Conference on IT Convergence and Security, pp.399-402, October. 2014.
+[33] 	Tran Thi Thu Ha and Jinsul Kim, "A Low Delay Combining Tree-basedandMesh-based Methodology for Peer-to-Peer Live Video Streaming," 2014 International Symposium on Information Technology Convergence, pp.1-3, October. 2014.
+[34] 	Sanghyun Park, Tran Thi Thu Ha, Jadhav Yogiraj Shivajirao and Jinsul Kim, "An Efficient Soft-Key Interface Provision Method in Cloud Platform," The 2014 International Conference on Internet Computing and Big Data, pp.107-113, July. 2014.
+[35] 	Sanghyun Park,	Ilmin Kim and	Jinsul Kim, "An Efficient Interface Providing Methodology Applying Multi-Sensors in Mobile Cloud Platform,"	International Workshop on Mobile and Wireless 2014, pp. 20-23, April, 2014.
+[36]	Sanghyun Park, Jinsul Kim and Byeongok Jang, "Research on Dynamic Customized UX Provision Methodology through Mobile Cloud,"	The 3rd International Conference on Convergence and its Application, May, 2014
+[37]	Tan Loc Nguyen, Jinsul Kim, Yonggwan Won1 and Sang-huyn Park, "Rule of Thirds Based Color Measurement Method for QoE Guaranty in Mobile Media Applications," International Conference on SmartMedia Applications, pp.75-82, October 2013.
+[38]	Kwangki Kim, Byeong-ok Jang, Sanghyun Park, Yonggwan Won and Jinsul Kim, "Mastering Signal Processing with Residual Coding Scheme in Spatial Audio Object Coding," International Conference on Information Science and Applications 2013, pp.261-263, June 2013.
+[39]	Sanghyun Park, Tran Thi Thu Ha, Jadhav Yogiraj Shivajirao, Jaehyung Park, Jinsul Kim and Minsoo Hahn, "Smart Wheelchair Control System using Cloud-based Mobile Device," International Conference on IT Convergence and Security 2013, pp.1-3, December 2013.
+[40]	Kwangki Kim, Jinsul Kim, "Sound Scene Control of Multi-Channel Audio Signals for Realistic Audio Service in Wired/Wireless Network," International Workshop on Mobile and Wireless 2013, pp.48-52, December 2013.
+[41]	Seungwon, Oh	Jinsul Kim and	Minsoo Hahn, "Music Mood Classification using Intro and Refrain Parts of Lyrics," International Conference on Information Science and Applications, pp. 613-615, June 2013.
+[42]	Jinsul Kim, "Noise   Reduction   Scheme   for   Multi-Screen   Aware   IP-based   Triple   Play   Service   on   U- Home's Smart Devices," Proc. of IEEE-ICTC2011, September, 2011
+[43]	Jinsul Kim, Byeongok Jang, "QoE-Aware   Dynamic   Bandwidth   Allocation   Optimization   for   Mobile   IPTV   Service   over Heterogeneous Networks," Proc. of IEEE-ICTC2011, September, 2011
+[44]	Jinsul Kim, Hyun-Woo Lee, Won Ryu, and Minsoo Hahn, "Noise-Robust Reduction Scheme over Pervasive Home Network Systems Environment for Internet Telephony Service," Proc. of IEEE-ICCE2008, pp.303-304, January 2010.
+[45]	Jinsul Kim, Won Ryu, and Minsoo Hahn, "Heterogeneous Terminals-Aware Viewer Centric Specific Scenes Extracting Scheme for Personal Broadcasting IP-TV Service," Proc. of IEEE-CCNC2008, pp.1234-1235, January 2010.
+[46]	Wonjun Kim, M. A. Hasan, Changick Kim, Jinsul Kim, Hyun-Woo Lee, and Won Ryu, "Measuring Blocking Artifacts for IPTV-based Service Quality Evaluation," Proc. of IEEE-ICACT2008, pp.1250-1253, Feb. 2008.
+[47]	M. A. Hasan, Wonjun Kim, Changick Kim, Jinsul Kim, Hyun-Woo Lee, and Won Ryu, "Color Error Measure for IPTV Service Quality Evaluation," Proc. of IEEE-ICACT2008, pp.1407-1412, Feb. 2008.
+[48]	Jinsul Kim, Hyun-Woo Lee, Won Ryu, and Minsoo Hahn, "An efficient QoE Support Video Quality Measurement Scheme over IP Network for IP-Media Services," Proc. of IEEE-NEXT 2007, pp.682-685, Oct. 2007. 
+[49]	Hyun-Woo Lee, Jinsul Kim, Won Ryu, and Byung Sun Lee, "A Study on the Realtime Message Report Procedures and Management Schemes for the Quality Guaranteed VoIP Services," Proc. of PICMET2007, pp.2958-2968, Aug. 2007.
+[50]	Seungho Han, Sangbae Jeong, Heesik Yang, Jinsul Kim, Won Ryu, Minsoo Hahn, "Speech Enhancement Using Optimized Wiener Filter for VoIP Speech Codecs," Proc. of 11th Panhellenic Conference in Informatics (PCI2007), Vol. B, pp.445-454, May 2007.
+[51]	Jinsul Kim, Kwihoon Kim, Hyun-Woo Lee, Seng Kyun Jo, Won Ryu, and Byung Sun Lee, "Performance Analysis of Adaptive Interlocutory and Noisy Signal through IP Networks," Proc. of AIAA-ICSSC2007, April 2007.
+[52]	Jinsul Kim, Hyun-Woo Lee, Won Ryu, and Byung Sun Lee, "Voice Quality Guaranteed Service over Best-Effort IP Network for Pervasive Environments," Proc. of IEEE-PerCom2007, pp.614-617, March 2007.
+[53]	Seung Ho Han, Sangbae Jeong, Heesik Yang, Jinsul Kim, Won Ryu, Minsoo Hahn, "Noise Reduction for VoIP Speech Codecs Using Modified Wiener Filter," Proc. of CISSE06, pp.393-397, Dec. 2006.
+[54]	Hyunsang Ahn, Dohyung Kim, Jaeyeon Lee, Suyoung Chi, Kyekyung Kim, Jinsul Kim, Minsoo Hahn, Hyunseok Kim, "A Robot Photographer with User Interactivity," Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp.5637-5643, Oct. 2006.
+[55]	Jinsul Kim, Seungho Han, Hyun-Woo Lee, Won Ryu, and Minsoo Hahn, "QoS-Factor Transmission Control Mechanism for Voice over IP Network based on RTCP-XR Scheme," Proc. of IEEE-ISCE 2006, June 2006.
+[56]	Kwihoon Kim, Jinsul Kim, Hyun-Woo Lee, and Won Ryu, "Method for Transmitting SMS for VoIP Service Supporting Multi-protocol," Proc. of IEEE-ISCE 2006, June 2006.
+[57]	Kwihoon Kim, Hyun-Woo Lee, Jinsul Kim, Won Ryu, and Byung Sun Lee, "The Intelligent VoIP Communication System," Proc. of AIAA-ICSSC2006, April 2006.
+[58]	Jinsul Kim, Hyun-Woo Lee, Won Ryu, Hyunsang Ahn, Seungju Jang and Minsoo Hahn, "Pervasive Application System with the Convergence Network : Using VoIP/MMoIP," Proc. of IEEE-CCNC2006, pp.1318-1319, Jan. 2006.
+[59]	Jinsul Kim, Hyun-Woo Lee, Won Ryu, and Byung Sun Lee "Multimedia Convergence Service using Multi-functional Systems: 3D Virtual Monitoring with Dynamic Voice and Video over IP based on SIP," Proc. of IEEE-CCNC2006, pp.1153-1157, Jan. 2006.

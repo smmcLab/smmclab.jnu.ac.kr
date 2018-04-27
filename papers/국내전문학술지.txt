@@ -1,0 +1,34 @@
+[1]   Linh Van Ma, GeunChang Choi, Jinsul Kim, “A Study on Management and Orchestration System for Adaptive Streaming in NFV”, Korea Digital Contents Society Conference, Mokwon University (Daejeon), December 1, 2017 (Fri), 2 (Sat).
+[2]   Linh Van Ma, GeunChang Choi, Jinsul Kim, “A Research on Monitoring System Using IoT Smart Sensors for Reducing Urban Disaster Effect”, Korea Digital Contents Society Conference, Mokwon University (Daejeon), December 1, 2017 (Fri), 2 (Sat).
+[3]   Linh Van Ma, Sanghyun Park, Jinsul Kim, “An Optimizing Multimedia Transcoding Method for Adaptive Streaming in Media Cloud”, [Korea Institute of Knowledge Information and Technology] 2017 Spring Conference, Hanbat National University, June 2 (Fri) - 3 (Sat), 2017.
+[4]   Linh Van Ma, Jinsul Kim, “A Study on Reducing Entropy Rate of Adaptive Streaming Bitrate Fluctuation”, 	Korea Knowledge Information Technology Society 2017 Fall Conference, Gangneung-Wonju National University, October 27, 2017 (Friday) to 28 (Sat).
+[5]   Linh Ma Van, 박상현, 장종현, 박재형, 김진술, “소셜 네트워크 데이터베이스를 이용한 퍼지 결정 기반의 추천 채널 시스템”, 디지털콘텐츠학회, 제17권, 제5호, pp.307-316, 2016. 10.
+[6]  	Linh Ma Van, 박상현, 장종현, 박재형, 김진술, “WebRTC 환경에 데이터 스트리밍 및 사용자 요청에 따른 동적로드 밸런싱 방법”, 디지털콘텐츠학회, 제17권, 제6호, pp.581-592, 2016. 12.
+[7]   Linh Ma Van, 박상현, 장종현, 박재형, 김진술, “로컬 물리적 네트워크에서 효율적인 대역폭 공유를 위한 퍼지 기반의 동적 방법”, 디지털콘텐츠학회, 제18권, 제2호, pp.411-422, 2017. 04.
+[8]   조성균, 이현우, 김진술, Florian Muller, Mohammed Khalilbeigi, Max Muhlhauser, "인체를 활용한 직관적 사용자 인터페이스 연구", 한국지식정보기술학회 논문지, 제10권, 제6호, pp.687-697, 2015. 12.
+[9]  	Linh Ma Van, 장종현, 김진술, "Adjusting Local Network Speed by Using Fuzzy Theory with An Illustration in WebRTC Environment", 디지털콘텐츠학회, 제16권, 제6호, pp.917-925, 2015. 12.
+[10]	김진술, 박상현, 이동건, "An Efficient Data Exchange Protocol for Peer-to-Peer Live Video Streaming based the Web," 한국지식정보기술학회, 제10권, 제6호, 2015, 11.
+[11] 	박상현, 김진술, "최적의 전동휠체어 시트 평형유지를 위한 상호보안 필터 기반의 스마트 제어 시스템 연구," 한국디지털콘텐츠학회, 제16권, 제3호, pp.355-363, 2015, 6.
+[12] 	박상현, 김지수, 김진술, "전동 휠체어의 주행안전을 위한 스마트 제어 플랫폼 기술 연구," 한국문화콘텐츠기술학회, 제10권, 제1호, pp.53-61, 2015, 6.
+[13]	Yogiraj S. Jadhav, 김정대, 김진술, "QoE Analysis based on Inverse Filtering for Video Quality Assessment," 한국지식정보기술학회, 제9권, 제5호, pp.579-587, 2014, 10.
+[14]	Tran thi Thu Ha, 이배호, 김진술, "네트워크 주소 변환 테스트를 위한 향상된 STUN 알고리즘," 한국지식정보기술학회, 제9권, 제5호, pp.555-562, 2014, 10.
+[15]	박상현, 김진술, "하둡기반의 클라우드 서비스를 이용한 스마트 모바일 인터페이스 레이아웃 제공 연구," 한국지식정보기술학회, 제8권, 제6호, pp.19-26, 2013, 12.
+[16]	박상현, 김진술, "모바일 클라우드 기반 사용자 경험 인지형 소셜 TV 콘텐츠 제공 방법," 한국문화콘텐츠기술학회, 제8권, 제2호, pp.29-35, 2013, 12.
+[17]	조창희, 박상현, 김진술, "모바일 디바이스 환경에서 어플리케이션에 따른 소프트 인터페이스 제작 및 제공기술 연구," 한국디털콘텐츠학회, 제14권, 제3호, pp.49-55, 2013, 06.
+[18]	조창희, 박상현, 김진술, "클라우드 기반의 스마트워크 환경을 위한 맞춤형 UI 모바일 인터페이스 스마트 키보드 구현," 한국문화콘텐츠기술학회, 제8권, 제1호, 2013, 6.
+[19]	박상현, 고영천, 김진술, "클라우드 환경의 스마트 모바일 디바이스 기반 효율적 음성인식 인터페이스 처리 연구, 한국문화콘텐츠기술학회, 제8권, 제1호, pp.17-24, 2013,  6.
+[20]	육주혜, 김진술, 오현정, "지체장애인의 컴퓨터접근 평가 시스템 구현," 한국디지털콘텐츠학회, 제13권, 제3호, 2012, 09.
+[21]	오현정, 육주혜, 김진술, "전맹 대학생의 컴퓨터 작업 수행능력 향상을 위한 화면읽기 프로그램 활용도 및 만족도 분석," 재활복지 논문지, 제16권, 제1호, 2012, 03.
+[22]	김형경, 김진술, "장애 적응형 서비스 제공을 위한 Open IPTV 구조 설계," 보조공학 저널, 제4권, 제2호, pp.1-16, 2010, 11
+[23]	송준하, 김진술, "UX중심형 안드로이드 기반 가상 스마트 모바일 스쿨 앱 설계," 한국지식정보기술학회, 제6권, 제2호, pp.8-15, 2011, 4.
+[24]	김태정, 조현상, 김진술, 한민수, "공연용 임베디드 시스템을 위한 무선 메쉬 네트워크 테스트," 한국지식정보기술학회, 제5권, 제5호 pp.155-161, 2010, 10.
+[25]	김진술, 장병옥, "효율적 내비게이션 제어를 위한 센서기반 스마트 글러브 인터페이스 설계," 한국지식정보기술학회, 제5권, 제5호, pp.201-206, 2010, 10.
+[26]	이동욱, 김진술, 한민수, "Quadtree 기반의 GPS 병합 및 분포 분석 시스템," 한국지식정보기술학회, 제5권, 제4호, pp.103-109, 2010, 8.
+[27]	정재욱, 김진술, 한민수, "스크린골프를 위한 다중노출 이미지 촬영 시스템 연구," 한국지식정보기술학회, 제5권, 제3호, pp.29-35, 2010, 6. 
+[28]	김진술, 정두용, 이상준, "청각장애 의사소통을 위한 친화적 디지털 핸드제스쳐 시스템 연구," 한국지식정보기술학회, 제5권, 제2호, pp.97-103, 2010, 4.
+[29]	김진술, 윤장우, "실시간 모바일 IPTV의 열화 컨텐츠 평가를 위한 효율적 QoE 인지형 전송 스트림 측정 스키마," 한국통신학회논문지, 제35권, 제2호, pp.352-360, 2010, 2. 
+[30]	김진술, "고품질 U-IPTV 서비스 제공을 위한 효율적 자원 할당 방안 연구," 한국지식정보기술학회, 제5권, 제1호, pp.27-32, 2010, 2. 
+[31]	이선오, 민경연, 심동규, 이현우, 류원, 김진술, "IP기반 비디오 서비스의 화질 측정을 위한 비참조 블록 열화 측정 방법," 대한전자공학회 논문지, 제46권 SP편, 제6호, pp.78-87, 2009, 11.
+[32]	박상현, 김진술, "상황인지 기반 스마트 워크플로우 AAC 시스템," 한국디지털콘텐츠학회, 제10권, 제3호, pp.469-477, 2009, 9.
+[33]	김원준, 김창익, 김진술, 이현우, 류원, "IPTV 서비스 영상에 대한 객관적 품질측정 방안 연구," Journal of the Korean society of broadcast engineers (한국방송공학회 논문지), 제13 권, 제4호, pp.440-451, 2008, 7.
+[34]	한승호, 김진술, 이현우, 류원, 한민수, "음성 특성을 이용한 G.711 패킷 손실 은닉 알고리즘의 성능개선," 대한음성학회지 말소리 논문지, 제57호, pp.175-189, 2006, 3.
